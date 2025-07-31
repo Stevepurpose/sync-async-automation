@@ -1,0 +1,22 @@
+{
+  "name": "sync-async-automation",
+  "version": "1.0.0",
+  "main": "asyncauto.js",
+  "scripts": {
+    "test": "jest",
+    "server": "http-server . -p 8080"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "jest": "^30.0.5",
+    "selenium-webdriver": "^4.34.0"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

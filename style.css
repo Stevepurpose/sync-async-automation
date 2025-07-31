@@ -1,0 +1,19 @@
+body{
+    display: grid;
+    height:100vh;
+}
+
+
+#async{
+    height: 40vh;
+    border: 1px solid red;
+    font-size: xx-large;
+
+}
+
+
+#sync{
+    height:40vh;
+    border: 1px solid blue;
+   font-size: xx-large;
+}
